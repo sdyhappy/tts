@@ -28,5 +28,9 @@ name = "tts-voice-magic-staging"
 # 路由配置
 [triggers]
 crons = []
+[[routes]]
+pattern = "tts.5858888.xyz"
+custom_domain = true
+
 
 

@@ -524,7 +524,7 @@ const HTML_PAGE = `
             </div>
             <div class="promotion-content">
                 <div class="qr-code">
-                    <img src="https://img.996007.icu/file/img1/a48c4eac2f2a99909da5611c3885726.jpg" alt="微信公众号二维码" />
+                    <img src="http://pic.qxrj.top/4aaaedcdcdda4aeca10d727a9e929edd.jpg" alt="微信公众号二维码" />
                 </div>
                 <div class="promotion-info">
                     <h3>关注「淘点资源」公众号</h3>
@@ -930,5 +930,6 @@ function dateFormat() {
     const formattedDate = (new Date()).toUTCString().replace(/GMT/, "").trim() + " GMT";
     return formattedDate.toLowerCase();
 }
+
 
 
